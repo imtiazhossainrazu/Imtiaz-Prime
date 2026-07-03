@@ -136,5 +136,11 @@ https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",44. Star JALSHA (জলসা)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",44. STAR JALSHA
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",45. ZEE Bangla
+http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",46. Colors Bangla
+http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
