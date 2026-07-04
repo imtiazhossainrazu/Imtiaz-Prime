@@ -86,14 +86,14 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",039 - T Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",040 - Nexus TV
-https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.mLin
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",041 - Ekhon
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",042 - Global Television
 https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",043 - Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",044 - Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",045 - Star News
@@ -107,3 +107,13 @@ http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",049 - Sun Bangla
 http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",050 - Jalsha Movies
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",051 - Zee BanglaSonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",052 - Colors Bangla Cinema
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",053 - Sony Aath
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+
