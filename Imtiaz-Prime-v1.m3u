@@ -114,6 +114,90 @@ http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",052 - Colors Bangla Cinema
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",053 - Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",053 - Enterr10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",054 - Sony Aath
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",055 - Star Plus
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",056 - Star Bharat
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",057 - Zee TV
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",058 - Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",059 - &TV
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",060 - Colors TV
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",061 - Sony Entertainment Television
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",062 - Sony SAB
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",063 - Dangal
+http://103.175.73.12:8080/live/17/17_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",064 - Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",065 - Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",066 - Big Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",067 - Star Gold
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",068 - Star Gold 2
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",069 - Star Gold Select
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",070 - Star Gold Romance
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",071 - Zee Cinema
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",072 - Zee Bollywood
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",073 - Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",074 - &Pictures
+https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",075 - Colors Cineplex
+http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",076 - Colors Cineplex Bollywood
+http://live.balajibroadband.com:3500/live/1763.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",077 - Sony MAX
+https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",078 - Sony MAX 2
+http://live.balajibroadband.com:3500/live/483.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",079 - Sony Wah
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",080 - B4U Movies
+https://cdn-2.pishow.tv/live/419/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",081 - UTV Movies
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",082 - Goldmines
+http://103.175.73.12:8080/live/53/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",083 - Goldmines Movies
+http://103.175.73.12:8080/live/51/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",084 - Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",085 - Enterr10 Movies
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",086 - Enterr10 Bollywood
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",087 - Manoranjan TV
+http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",088 - Manoranjan Movies
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",089 - Manoranjan Prime
+http://103.175.73.12:8080/live/345/345_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",090 - Manoranjan Grand
+http://103.175.73.12:8080/live/19/19_0.m3u8
