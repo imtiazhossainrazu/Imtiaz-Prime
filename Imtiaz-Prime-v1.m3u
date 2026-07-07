@@ -107,15 +107,15 @@ http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",049 - Sun Bangla
 http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",050 - Jalsha Movies
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",051 - Zee BanglaSonar
-https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",052 - Colors Bangla Cinema
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",053 - Enterr10 Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",050 - Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",051 - Jalsha Movies
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",052 - Zee BanglaSonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",053 - Colors Bangla Cinema
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",054 - Sony Aath
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 
@@ -201,3 +201,56 @@ https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0
 http://103.175.73.12:8080/live/345/345_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",090 - Manoranjan Grand
 http://103.175.73.12:8080/live/19/19_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",091 - Star Sports 1
+http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",092 - Star Sports 2
+http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",093 - Star Sports 3
+http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",094 - Star Sports Select 1
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",095 - Star Sports Select 2
+http://180.94.28.28:8097//star-Sports-Select-2/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",096 - Sony Sports Ten 1
+http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",097 - Sony Sports Ten 2
+http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",098 - Sony Sports Ten 3
+http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",099 - Sony Sports Ten 5
+http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",100 - DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",101 - Eurosport 1
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",102 - Eurosport 2
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",103 - Eurosport India
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",104 - beIN Sports 1 (max)
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",105 - beIN Sports 2/XTRAN
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",106 - beIN Sports 3/Tekrar
+https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",107 - PTV Sports
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",108 - A Sports
+http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",109 - Sky Sports Cricket
+https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",110 - Sports channels will be added.
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",111 - Sports channels will be added.
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tafQXf.jpg",112 - Sports channels will be added.
+https://res.cloudinary.com/bov46gkl/video/upload/InShot_20260703_004044765_qdjc0e.m3u8
+
+
